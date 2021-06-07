@@ -21,7 +21,7 @@
     "@angular/router": "~8.2.14",
     "bootstrap": "^4.3.1",
     "form-module": "^9.0.0",
-    "forms": "^1.3.1",
+    "forms": "^1.3.2",
     "goten-ngmodel": "^2.0.3",
     "ngmodule-viz": "^1.0.8",
     "rxjs": "~6.4.0",
